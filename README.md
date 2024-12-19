@@ -2,7 +2,7 @@
 
 
 
-# Regressão por Componentes Principais (PCA) - Análise de Nascimento
+# Regressão por Componentes Principais (PCA) - Análise de Peso do Nacimento
 
 Este repositório contém o código para análise de dados sobre nascimentos, utilizando o modelo de **Regressão por Componentes Principais (PCA)**. O objetivo é identificar padrões e relações importantes entre variáveis, de saúde e de nascimento, como a duração da gestação, a escolaridade materna, o tipo de parto e muito mais que expliquem o peso do recém-nascido.
 
