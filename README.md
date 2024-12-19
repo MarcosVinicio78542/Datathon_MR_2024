@@ -13,13 +13,13 @@ Vinicius Ferreira Amorim Santana - Universidade Federal de Goiás (UFG)
 Danilo Silva Carvalho de Oliveira - Universidade Federal de Goiás (UFG)
 
 
-# Regressão por Componentes Principais (PCA) - Análise de Peso do Nacimento
+# Regressão por Componentes Principais (PCR) - Análise de Peso do Nacimento
 
-Este repositório contém o código para análise de dados sobre nascimentos, utilizando o modelo de **Regressão por Componentes Principais (PCA)**. O objetivo é identificar padrões e relações importantes entre variáveis, de saúde e de nascimento, como a duração da gestação, a escolaridade materna, o tipo de parto e muito mais que expliquem o peso do recém-nascido.
+Este repositório contém o código para análise de dados sobre nascimentos, utilizando o modelo de **Regressão por Componentes Principais (PCR)**. O objetivo é identificar padrões e relações importantes entre variáveis, de saúde e de nascimento, como a duração da gestação, a escolaridade materna, o tipo de parto e muito mais que expliquem o peso do recém-nascido.
 
 ## 🚀 Objetivo do Projeto
 
-Através da **regressão por componentes principais (PCA)**, buscamos extrair componentes principais que expliquem a maior parte da variabilidade do "PESO". O modelo é útil para entender como diferentes fatores influenciam os resultados de peso dos nascimentos e como podemos melhorar o entendimento dos cuidados pré-natais, o histórico reprodutivo e o impacto de fatores sociais e econômicos.
+Através da **regressão por componentes principais (PCR)**, buscamos extrair componentes principais que expliquem a maior parte da variabilidade do "PESO". O modelo é útil para entender como diferentes fatores influenciam os resultados de peso dos nascimentos e como podemos melhorar o entendimento dos cuidados pré-natais, o histórico reprodutivo e o impacto de fatores sociais e econômicos.
 
 ## 📊 Resultados
 
