@@ -35,6 +35,9 @@ Embora os resultados forneçam uma visão valiosa, o projeto também sugere que 
 ## 🧑‍💻 Como Usar
 Com a disposição do código neste repositório, é possível replicar o estudo utilizando o software R.
 
+### Pacote Referência: https://rdrr.io/cran/pls/
+### Biblioteca: https://rdrr.io/cran/pls/man/pls.html
+
 Fique a vontade!
 
 
