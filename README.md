@@ -3,9 +3,13 @@
 Participantes:
 
 Marcos Vinício Cesario dos Santos - Universidade Federal de Goiás (UFG) 
+
 João Marcos Ribeiro Lima - Universidade Federal de Goiás (UFG)
+
 Luiz Paulo Campos Calixto - Universidade Federal de Goiás (UFG)
+
 Vinicius Ferreira Amorim Santana - Universidade Federal de Goiás (UFG)
+
 Danilo Silva Carvalho de Oliveira - Universidade Federal de Goiás (UFG)
 
 
