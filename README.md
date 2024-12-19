@@ -37,6 +37,4 @@ Com a disposição do código neste repositório, é possível replicar o estudo
 
 Fique a vontade!
 
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seu-usuario/repo-nome.git
+
